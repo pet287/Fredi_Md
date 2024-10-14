@@ -1,8 +1,8 @@
 
 {
-  "name": "Fredi-Md",
+  "name": "❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌",
   "version": "10.8.1",
-  "description": "Fredi-Md latest multi device whatsapp bot",
+  "description": "❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌ latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,8 +10,8 @@
     "stop": "pm2 stop Fredi-Md",
     "restart": "pm2 restart Fredi-Md"
   },
-  "keywords": ["Fredi-Md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "FrediEzra",
+  "keywords": ["❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌", "whatsapp-bot", "whatsapp md bot"],
+  "author": "❌Ǥ҉Ø҉Đ҉W҉Ɨ҉N҉❌",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
